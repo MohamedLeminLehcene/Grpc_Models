@@ -25,3 +25,26 @@
 
 <img src="pictures/Model1/img08.png">
 <img src="pictures/Model1/img10.png">
+
+
+<img src="pictures/B/img03.png">
+<img src="pictures/B/img04.png">
+<img src="pictures/B/img05.png">
+<img src="pictures/B/img05.png">
+<img src="pictures/B/img06.png">
+<img src="pictures/B/img07.png">
+<img src="pictures/B/img07.png">
+<img src="pictures/B/img08.png">
+<img src="pictures/B/img09.png">
+<img src="pictures/B/img10.png">
+<img src="pictures/B/img11.png">
+<img src="pictures/B/img12.png">
+<img src="pictures/B/img13.png">
+<img src="pictures/B/img14.png">
+<img src="pictures/B/img15.png">
+<img src="pictures/B/img16.png">
+<img src="pictures/B/img17.png">
+<img src="pictures/B/img18.png">
+<img src="pictures/B/img19.png">
+<img src="pictures/B/img20.png">
+<img src="pictures/B/img21.png">
